@@ -26,3 +26,7 @@ Nossa análise revelou diversas correlações significativas entre as criptomoed
 A análise das correlações entre as criptomoedas não só proporciona uma visão mais profunda do mercado, mas também oferece ferramentas práticas para a gestão de investimentos e a elaboração de estratégias financeiras.
 
 ![criptos_correlation](https://github.com/user-attachments/assets/84f5992e-3b65-4cef-88ec-53b383b7b6c7)
+
+segue abaixo mais exemplos especificos: 
+![example_correlation_criptos1](https://github.com/user-attachments/assets/00cabe9b-abf4-4cce-b9db-fb84861d83ee)
+![example_correlation_criptos2](https://github.com/user-attachments/assets/a871e385-300c-4fed-8576-0f8a9358d473)
